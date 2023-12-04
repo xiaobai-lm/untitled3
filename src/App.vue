@@ -318,8 +318,7 @@ myPlayer.value.pause()
   <div class="con ">
 
 
-<!--    <div style="-->
-<!--                padding-top: 0;top: 5%; left: 0;width: 500px;text-align: center;line-height: 60px;color: #f6f3f3;font-size: 18px" class="absolute z-9999 "><h1>浦东机场飞行区信息展示屏</h1></div>-->
+    <div style="color: #f6f3f3;right: 1%;top:1%;opacity: 0.7" class="absolute z-9999 "><icon-close-circle-fill style="width: 50px;height: 50px" @click=""/></div>
 <!--<div><img alt="" class="absolute z-9999" :src="backImg" width="540" height="140" style="top: 10%; left: 50.5%;"/>-->
 <!--  <span class="absolute z-9999" style="top: 10%; left: 50.5%;color: white"><h1>浦东机场飞行区信息展示屏</h1></span>-->
 <!--</div>-->
